@@ -54,12 +54,10 @@ I specialize in transforming business requirements into scalable and efficient s
 ---
 
 ## 📊 GitHub Stats:
-## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SridharUtukuri&show_icons=true&theme=radical" alt="Sridhar's GitHub Stats" />
 </p>
-## 📊 GitHub Stats:
-![Sridhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SridharUtukuri&show_icons=true&theme=radical)
+
 
 
 ---
